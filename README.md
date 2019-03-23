@@ -79,3 +79,7 @@ DWSIM.UI.Desktop.WPF|Cross-Platform UI Windows Presentation Foundation (WPF) Pla
 - DWSIM can be compiled using Visual Studio 2017 on Windows.
 - To compile everything, change the Build target to 'Debug' or 'Release' and 'x64'.
 - To get pre-release [Eto.Forms](https://github.com/picoe/Eto) packages, add https://www.myget.org/F/eto/ as a NuGet package source.
+
+#### Compiling DWSIM on Linux
+http://dwsim.inforside.com.br/wiki/index.php?title=Compiling_DWSIM_on_Linux
+http://dwsim.inforside.com.br/wiki/index.php?title=Running_DWSIM_on_Ubuntu
